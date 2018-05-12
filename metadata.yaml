@@ -1,0 +1,29 @@
+_repo: Obed-HusseyWho-of-All-Inventors-Made-Bread-Cheap_19547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Greeno, Follett L. (Follett Lamberton)
+    alias: Greeno, Follett Lamberton
+    birthdate: 1889
+    gutenberg_agent_id: '8737'
+    url: http://www.gutenberg.org/2009/agents/8737
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Harvesting machinery'
+- !lcsh 'Hussey, Obed, 1792-1860'
+- !lcc 'HD'
+title: Obed Hussey, Who, of All Inventors, Made Bread Cheap
+url: http://www.gutenberg.org/ebooks/19547
